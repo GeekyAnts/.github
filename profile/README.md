@@ -46,7 +46,7 @@ More at [geekyants.com/open-source](https://geekyants.com/open-source?utm_source
 
 Many of our open-source projects grew from problems our engineers encountered while building production software. We publish them so developers can use the code, learn from it, and help improve it. Before contributing to a project, check its guidelines for opening issues and submitting pull requests.
 
-Our engineers also share practical lessons from AI, frontend, backend, cloud, mobile, and product architecture through the [GeekyAnts technology blog](https://geekyants.com/blog?utm_source=github&utm_medium=referral#technology) and [developer meetups](https://www.meetup.com/geekyants-events-meetup-group/).
+Our engineers also share practical lessons from AI, frontend, backend, cloud, mobile, and product architecture through the GeekyAnts technology blog and developer meetups.
 
 ## Connect With GeekyAnts
 
